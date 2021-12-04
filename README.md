@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @luharine
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+ 
 - 📫 How to reach me @kattarahul_1 on Instagram and kattarahul01@gmail.com
 
 <!---
