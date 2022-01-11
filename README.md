@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luharine
+- 👋 Hi, I’m Rahul
  
-- 📫 How to reach me @kattarahul_1 on Instagram and kattarahul01@gmail.com
+- 📫 How to reach me @kattarahul_1 on Instagram and kattarahul2001@gmail.com
 
 <!---
 luharine/luharine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
